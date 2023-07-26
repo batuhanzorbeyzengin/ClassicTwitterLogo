@@ -1,23 +1,23 @@
 # ClassicTwitterLogo
 
-## Neden Böyle Bir Eklenti Var
+## Why Does This Extension Exist
 
-Twitter logosu zaman içinde değişikliklere uğradı ve bu bazı kullanıcılar arasında eski logo tasarımına olan özlemi tetikledi. ClassicTwitterLogo, eski Twitter logosunu özleyenler için oluşturulan bir Chrome eklentisidir. Bu eklenti, Twitter'ın logosunu eski versiyona döndürür, böylece kullanıcılar nostalji yaşayabilirler.
+Over time, the Twitter logo has undergone changes, which has sparked nostalgia for the old logo design among some users. ClassicTwitterLogo is a Chrome extension created for those who miss the old Twitter logo. This extension reverts the Twitter logo back to its older version, allowing users to relive the nostalgia.
 
-## Nasıl Kullanılır
+## How to Use
 
-Bu eklentiyi kullanmak son derece basittir. Eklentiyi yükledikten sonra Twitter'ı ziyaret ettiğinizde, logosu otomatik olarak eski versiyonuna dönecektir.
+Using this extension is incredibly simple. Once the extension is installed, whenever you visit Twitter, the logo will automatically revert to its older version.
 
-## Eklentinin Yüklenmesi
+## Installation of the Extension
 
-Chrome eklentilerini yüklemek oldukça kolaydır. Aşağıda adım adım bir rehber bulabilirsiniz:
+Installing Chrome extensions is quite easy. Below is a step-by-step guide:
 
-1. Bu GitHub reposundan projeyi bilgisayarınıza indirin.
-2. Chrome tarayıcınızı açın ve sağ üst köşedeki üç nokta menüsünü seçin.
-3. Daha fazla araçlar -> Uzantılar seçeneğini tıklayın.
-4. Sağ üst köşedeki "Geliştirici modu" kutusunu işaretleyin.
-5. "Paketlenmemiş öğe yükle" düğmesini tıklayın.
-6. Bilgisayarınızda indirdiğiniz projenin klasörünü seçin.
-7. Ve işte bu kadar! Artık eklenti yüklendi ve kullanıma hazır.
+1. Download the project from this GitHub repository to your computer.
+2. Open your Chrome browser and select the three-dot menu in the top right corner.
+3. Click on More tools -> Extensions.
+4. Check the "Developer mode" box in the top right corner.
+5. Click the "Load unpacked" button.
+6. Select the folder of the project you downloaded on your computer.
+7. And that's it! Now the extension is installed and ready to use.
 
-ClassicTwitterLogo'yu kullandığınız için teşekkür ederiz!
+Thank you for using ClassicTwitterLogo!
