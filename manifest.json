@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Twitter Logo Change",
+    "short_name": "Twitter Logo Change",
+    "description": "It is a plugin that replaces Twitter's old miss logo.",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
